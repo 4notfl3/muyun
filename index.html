@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>剑指天下 - 逆水寒手游帮会搜索</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- 背景音乐播放器 -->
+    <div class="bg-music-player">
+        <audio id="bgMusic" class="bg-music-audio">
+            <source id="bgMusicSource" src="" type="audio/mpeg">
+            您的浏览器不支持音频元素。
+        </audio>
+        <div class="music-controls">
+            <div class="music-icon" id="musicIcon">
+                <span class="play-icon">▶</span>
+            </div>
+            <div class="volume-slider">
+                <span class="volume-icon">🔊</span>
+                <input type="range" min="0" max="1" step="0.05" value="0.3" id="volumeInput" class="volume-input">
+            </div>
+        </div>
+    </div>
+
+    <!-- 导航栏 -->
+    <nav id="navbar" class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <img id="navLogo" src="" alt="logo2" />
+                <h2 id="navTitle">剑指天下</h2>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="#hero" class="nav-link">首页</a></li>
+                <li><a href="#DemoVideos" class="nav-link">帮会照片</a></li>
+                <li><a href="#organizations" class="nav-link">帮会日常</a></li>
+                <li><a href="#characters" class="nav-link">帮会人员</a></li>
+                <li><a href="#about" class="nav-link">加入我们</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- 首页区域 -->
+    <section id="hero" class="hero character-bg-img1">
+        <div class="hero-content">
+            <img id="heroLogo" src="" alt="logo2" class="hero-logo" />
+            <h1 id="heroTitle" class="hero-title">剑指天下</h1>
+            <p id="heroSubtitle" class="hero-subtitle">剑指天下，锋芒毕露，一沐青云，征战四方</p>
+            <div class="hero-buttons">
+                <button class="base-btn btn-secondary" onclick="scrollToSection('DemoVideos')">
+                    查看帮会照片
+                </button>
+                <button class="base-btn btn-primary" onclick="scrollToSection('organizations')">
+                    探索帮会日常
+                </button>
+                <button class="base-btn btn-secondary" onclick="scrollToSection('characters')">
+                    结识帮会人员
+                </button>
+            </div>
+        </div>
+        <div class="hero-overlay"></div>
+    </section>
+
+    <!-- 百业混剪区域标题 -->
+    <div id="toDemoVideo" class="video-section-spacer">
+        <div class="section-header">
+            <h2 class="section-title">帮战照片</h2>
+            <p class="section-subtitle">生而微末者，影为其证</p>
+        </div>
+    </div>
+
+    <!-- 百业混剪区域 -->
+    <section id="DemoVideos" class="section video-section character-bg-img2">
+        <!-- 背景媒体将通过 JavaScript 动态创建 -->
+        <div class="section-overlay"></div>
+        <div class="container">
+            <div class="org-carousel-wrapper">
+                <button class="carousel-btn left" onclick="prevDemoVideo()">
+                    <img src="https://www.yysls.cn/pc/fab/20250723194326/img/feature_prev_d3634779.png?image_process=format,png" alt="左箭头" style="width:70px;">
+                </button>
+                <div class="org-carousel">
+                    <div class="org-card demo-video-card" data-index="0">
+                        <div class="org-image">
+                            <iframe width="1320" height="780" frameborder="0" 
+                                src=""
+                                referrerpolicy="unsafe-url" allowfullscreen>
+                            </iframe>
+                        </div>
+                    </div>
+                </div>
+                <button class="carousel-btn right" onclick="nextDemoVideo()">
+                    <img src="https://www.yysls.cn/pc/fab/20250723194326/img/feature_next_6f404b40.png?image_process=format,png" alt="右箭头" style="width:70px;">
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <!-- 百业活动区域标题 -->
+    <div id="toOrganizations" class="video-section-spacer">
+        <div class="section-header">
+            <h2 class="section-title">帮战日常</h2>
+            <p class="section-subtitle">各行各业，精彩纷呈</p>
+        </div>
+    </div>
+
+    <!-- 百业活动区域 -->
+    <section id="organizations" class="section video-section character-bg-img2">
+        <!-- 背景媒体将通过 JavaScript 动态创建 -->
+        <div class="section-overlay"></div>
+        <div class="container">
+            <div class="org-carousel-wrapper">
+                <button class="carousel-btn left" onclick="prevOrgCard()">
+                    <img src="https://www.yysls.cn/pc/fab/20250723194326/img/feature_prev_d3634779.png?image_process=format,png" alt="左箭头" style="width:70px;">
+                </button>
+                <div class="org-carousel">
+                    <div class="org-card-img organization-card" data-index="0">
+                        <div class="org-image">
+                            <img src="https://www.yysls.cn/pc/gw/20220815175950/img/mhys/bz/17_33f9186.jpg?image_process=format,jpg" alt="互帮互助五人本">
+                        </div>
+                        <div class="org-content">
+                            <h3>互帮互助十二人本</h3>
+                            <p>帮会成员互帮互助，齐心协力，共同拿下十二人本！</p>
+                            <div class="org-stats">
+                                <span>任何百业成员</span>
+                                <span>任何时间</span>
+                                <span>任何地点</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <button class="carousel-btn right" onclick="nextOrgCard()">
+                    <img src="https://www.yysls.cn/pc/fab/20250723194326/img/feature_next_6f404b40.png?image_process=format,png" alt="右箭头" style="width:70px;">
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <!-- 百业人员区域标题 -->
+    <div id="toCharacters" class="video-section-spacer">
+        <div class="section-header">
+            <h2 class="section-title">帮战人员</h2>
+            <p class="section-subtitle">精英人才，各展风采</p>
+        </div>
+    </div>
+
+    <!-- 百业人员区域 -->
+    <section id="characters" class="video-section character-bg-img3">
+        <div class="character-intro-container">
+            <div class="character-list" id="character-list">
+                <!-- 角色列表将通过JavaScript动态生成 -->
+                <div class="pagination-controls">
+                    <button class="pagination-btn prev-btn" onclick="prevPage()">
+                        <img src="https://www.yysls.cn/pc/fab/20250723194326/img/feature_prev_d3634779.png?image_process=format,png" alt="左箭头" style="width:30px;">
+                    </button>
+                    <div class="page-indicators" id="pageIndicators">
+                        <!-- 页码指示器将通过JavaScript动态生成 -->
+                    </div>
+                    <button class="pagination-btn next-btn" onclick="nextPage()">
+                        <img src="https://www.yysls.cn/pc/fab/20250723194326/img/feature_next_6f404b40.png?image_process=format,png" alt="右箭头" style="width:30px;">
+                    </button>
+                </div>
+            </div>
+            <div class="character-detail">
+                <div id="character-info-panel" class="character-info-panel">
+                    <h1 id="character-name">寒初雪</h1>
+                    <p id="character-title" class="character-title">社长</p>
+                    <div id="character-tags" class="character-tags">
+                        <span class="tag">虹虹玩家</span>
+                        <span class="tag">紫色韵味</span>
+                        <span class="tag">开服玩家</span>
+                    </div>
+                    <p id="character-desc" class="character-desc">为人仁厚，重情重义。</p>
+                </div>
+                <div class="character-art">
+                    <div id="character-flip-container" class="character-flip-container" onclick="nextCharacterArt()">
+                        <div class="character-faces">
+                            <div class="face front">
+                                <img id="character-art-img" src="https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif" alt="峰伈">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 关于我们区域标题 -->
+    <div id="toAbout" class="video-section-spacer">
+        <div class="section-header">
+            <h2 id="about-title" class="section-title">加入我们</h2>
+            <p id="about-subtitle1" class="section-subtitle">逆水寒手游搜索</p>
+            <p id="about-subtitle2" class="section-subtitle">风华无缺</p>
+        </div>
+    </div>
+    
+    <!-- 合并后的关于我们和页脚主要内容区域 -->
+    <section id="about" class="section video-section">
+        <div class="section-overlay"></div>
+        <div class="container">
+            <!-- 关于我们内容 -->
+            <div class="about-content">
+                <div class="about-text about-text-1">
+                    <p>风华无缺致力于展示各流派咸鱼人生的风采。</p>
+                    <p>我们相信，每个人都自己的独特价值。</p>
+                </div>
+                <div class="about-text about-text-2">
+                    <p>风华无缺致力于展示各流派咸鱼人生的风采。</p>
+                    <p>我们相信，每个人都自己的独特价值。</p>
+                </div>
+            </div>
+            
+            <!-- 页脚主要内容 -->
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>沐云</h4>
+                    <p>展示各流派咸鱼人才，弘扬咸鱼精神</p>
+                </div>
+                <div class="footer-section">
+                    <h4>加入我们</h4>
+                    <p>加入我们，共建美好燕云</p>
+                </div>
+                <div class="footer-section">
+                    <h4>联系我们</h4>
+                    <div class="social-links">
+                        <a class="social-link">寒初雪</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- 保留版权信息在最底部，背景图片外 -->
+    <div class="footer-bottom">
+        <p>&copy; 2025 沐云. 保留所有权利.</p>
+    </div>
+
+    <!-- 删除原来的独立页脚 -->
+    <!-- 页脚 -->
+    <!-- 此处内容已移至上面的区域 -->
+
+    <script src="config.js"></script>
+    <script src="data.js"></script>
+    <script src="imageUtils.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
