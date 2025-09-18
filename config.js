@@ -227,10 +227,10 @@ const CONFIG = {
     // ==================== LOGO和图片设置 ====================
     images: {
         // 导航栏LOGO - 显示在页面顶部导航栏的LOGO图片
-        navLogo: "https://h.res.netease.com/images/20250103/1735892627849_c800549adf.png",
+        navLogo: "img/logo.webp",
         
         // 首页域LOGO - 显示在首屏首页域的大LOGO图片
-        heroLogo: "https://h.res.netease.com/images/20250103/1735892627849_c800549adf.png",
+        heroLogo: "img/logo.webp",
         
         // 轮播按钮图片 - 视频和组织轮播的上一页/下一页按钮图标
         carouselPrev: "https://www.yysls.cn/pc/fab/20250723194326/img/feature_prev_d3634779.png?image_process=format,png",
