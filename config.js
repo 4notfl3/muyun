@@ -19,21 +19,21 @@ const CONFIG = {
     backgrounds: {
         // 首页区域背景媒体（支持视频和图片）
         heroBackground: {
-            url: "img/背景/feng1.jpg",
+            url: "img/背景/feng1.avif",
             type: "auto",
             fallback: ""
         },
         
         // 视频展示区域背景媒体（支持视频和图片）
         demoVideoBackground: {
-            url: "img/背景/feng3.jpeg",
+            url: "img/背景/feng3.avif",
             type: "auto",
             fallback: ""
         },
         
         // 组织活动区域背景媒体（支持视频和图片）
         organizationVideoBackground: {
-            url: "img/背景/feng2.jpeg",
+            url: "img/背景/feng2.avif",
             type: "auto",
             fallback: ""
         },
@@ -240,7 +240,7 @@ const CONFIG = {
     // ==================== 文本内容设置 ====================
     content: {
         // 网站标题 - 显示在浏览器标签页的标题
-        siteTitle: "剑指天下-沐云-逆水寒手游",
+        siteTitle: "剑指天下沐云-逆水寒手游",
         
         // 首页域文本 - 首屏显示的主要标题和副标题
         hero: {
