@@ -40,7 +40,7 @@ const CONFIG = {
         
         // 关于我们区域背景媒体（添加这部分）
         aboutBackground: {
-            url: "img/背景/feng4.jpg", // 可以使用组织活动区域的背景图片，也可以替换为其他图片
+            url: "img/背景/feng4.avif", // 可以使用组织活动区域的背景图片，也可以替换为其他图片
             type: "auto",
             fallback: ""
         },

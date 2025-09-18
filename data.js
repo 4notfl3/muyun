@@ -7,7 +7,7 @@ const organizationsData = [
     host: '任何帮会成员',
     time: '任何时间',
     location: '任何地点',
-    image: 'img/日常/shier.jpg'
+    image: 'img/日常/shier.avif'
   },
   {
     id: 'ten_person_dungeon',
@@ -16,7 +16,7 @@ const organizationsData = [
     host: '美丽',
     time: '帅气',
     location: '小椋老师',
-    image: 'img/日常/fengliang.jpg'
+    image: 'img/日常/fengliang.avif'
   }
 ];
 
@@ -25,22 +25,22 @@ const demoVideos = [
   {
     id: '1',
     name: '帮会合照',
-    video:'img/合照/hezhao2.jpg'
+    video:'img/合照/hezhao2.avif'
   },
   {
     id: '2',
     name: '帮会合照',
-    video: 'img/合照/hezhao4.jpg'
+    video: 'img/合照/hezhao4.avif'
   },
   {
     id: '3',
     name: '帮会合照',
-    video: 'img/合照/hezhao1.jpg'
+    video: 'img/合照/hezhao1.avif'
   },
   {
     id: '4',
     name: '帮会合照',
-    video: 'img/合照/hezhao3.jpg'
+    video: 'img/合照/hezhao3.avif'
   }
 ];
 
