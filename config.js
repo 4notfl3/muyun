@@ -19,28 +19,28 @@ const CONFIG = {
     backgrounds: {
         // 首页区域背景媒体（支持视频和图片）
         heroBackground: {
-            url: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757981224007_qdqqd_l4bhyt.avif",
+            url: "img/背景/feng1.jpg",
             type: "auto",
             fallback: ""
         },
         
         // 视频展示区域背景媒体（支持视频和图片）
         demoVideoBackground: {
-            url: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757981248753_qdqqd_7d2edv.avif",
+            url: "img/背景/feng3.jpeg",
             type: "auto",
             fallback: ""
         },
         
         // 组织活动区域背景媒体（支持视频和图片）
         organizationVideoBackground: {
-            url: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757981264954_qdqqd_qw4hk3.avif",
+            url: "img/背景/feng2.jpeg",
             type: "auto",
             fallback: ""
         },
         
         // 关于我们区域背景媒体（添加这部分）
         aboutBackground: {
-            url: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758101025283_qdqqd_ie1ju4.avif", // 可以使用组织活动区域的背景图片，也可以替换为其他图片
+            url: "img/背景/feng4.jpg", // 可以使用组织活动区域的背景图片，也可以替换为其他图片
             type: "auto",
             fallback: ""
         },
