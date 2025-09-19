@@ -55,7 +55,7 @@ const characterData = [
     tags: ["权威", "站街", "招人"],
     avatar: "avatars/44.jpg",
     art: [
-      "img/第一页/dangjia1.jpg",
+      "img/第一页/dangjia1.avif",
     ]
   },
   {
@@ -66,7 +66,7 @@ const characterData = [
     tags: ["萌妹", "叫妈妈"],
     avatar: "avatars/50.jpg",
     art: [
-      "img/第一页/yusao.jpg",
+      "img/第一页/yusao.avif",
     ]
   },
   {
@@ -77,7 +77,7 @@ const characterData = [
     tags: ["无敌神相"],
     avatar: "avatars/26.jpg",
     art: [
-      "img/第一页/ganq.jpg",
+      "img/第一页/ganq.avif",
     ]
   },
   {
@@ -87,7 +87,7 @@ const characterData = [
     desc: "世界以痛吻我 我伸舌头",
     tags: ["甜妹", "反差"],
     avatar: "avatars/33.jpg",
-    art: ["img/第一页/yuezhang.jpg"]
+    art: ["img/第一页/yuezhang.avif"]
   },
   {
     id: 'xian_huan_xing',
@@ -97,7 +97,7 @@ const characterData = [
     tags: ["无敌碎梦"],
     avatar: "avatars/24.jpg",
     art: [
-      "img/第一页/xiaozi.jpg",
+      "img/第一页/xiaozi.avif",
     ]
   },
   {
@@ -108,7 +108,7 @@ const characterData = [
     tags: ["热心肠"],
     avatar: "avatars/46.jpg",
     art: [
-      "img/第一页/zuoxing.jpg",
+      "img/第一页/zuoxing.avif",
   
     ]
   },
@@ -120,7 +120,7 @@ const characterData = [
     tags: ["抽象"],
     avatar: "avatars/11.jpg",
     art: [
-      "img/第一页/ling.jpg",
+      "img/第一页/ling.avif",
     ]
   },
   {
@@ -131,7 +131,7 @@ const characterData = [
     tags: ["社恐"],
     avatar: "avatars/31.jpg",
     art: [
-      "img/第一页/yujung.jpg",
+      "img/第一页/yujung.avif",
     ]
   },
   {
@@ -142,7 +142,7 @@ const characterData = [
     tags: ["反差", "抽象", "神经病"],
     avatar: "avatars/43.jpg",
     art: [
-      "img/第一页/lanxing.jpg",
+      "img/第一页/lanxing.avif",
     ]
   },
   {
@@ -153,7 +153,7 @@ const characterData = [
     tags: ["12偷吃"],
     avatar: "avatars/40.jpg",
     art: [
-      "img/第一页/lingwang.jpg",
+      "img/第一页/lingwang.avif",
     ]
   },
   {
@@ -164,7 +164,7 @@ const characterData = [
     tags: ["招人这一块"],
     avatar: "avatars/28.jpg",
     art: [
-      "img/第一页/hua.jpg",
+      "img/第一页/hua.avif",
     ]
   },
   {
@@ -174,7 +174,7 @@ const characterData = [
     desc: "你去毛伤害是想等我对你怒吼吗",
     tags: ["种地菜农"],
     avatar: "avatars/45.jpg",
-    art: ["img/第一页/huangyu.jpg"]
+    art: ["img/第一页/huangyu.avif"]
   },
   {
     id: 'yu_ban_sheng',
@@ -183,7 +183,7 @@ const characterData = [
     desc: "以蛊为药，魂灯为引，  九灵有情人终成药人",
     tags: ["温柔", "认真"],
     avatar: "avatars/48.jpg",
-    art: ["img/第一页/chuyu.jpg"]
+    art: ["img/第一页/chuyu.avif"]
   },
   {
     id: 'zhen_jin_mian',
@@ -193,7 +193,7 @@ const characterData = [
     tags: ["李少牛逼"],
     avatar: "avatars/34.jpg",
     art: [
-      "img/第一页/lishao.jpg",
+      "img/第一页/lishao.avif",
      
     ]
   },
@@ -205,7 +205,7 @@ const characterData = [
     tags: ["抽象", "反差", "表面社恐"],
     avatar: "avatars/40.jpg",
     art: [
-      "img/第一页/jiaoruo.jpg",
+      "img/第一页/jiaoruo.avif",
     ]
   },
   {
@@ -216,7 +216,7 @@ const characterData = [
     tags: ["抽象", "应声虫", "站街"],
     avatar: "avatars/48.jpg",
     art: [
-      "img/第一页/yun.jpg",
+      "img/第一页/yun.avif",
     ]
   },
   {
@@ -228,9 +228,9 @@ const characterData = [
     avatar: "avatars/37.jpg",
     art: [
       
-      "img/第一页/fengliang2.jpg",
-      "img/第一页/fengliang1.jpg",
-      "img/第一页/fengliang4.jpg",
+      "img/第一页/fengliang2.avif",
+      "img/第一页/fengliang1.avif",
+      "img/第一页/fengliang4.avif",
     ]
   },
   {
@@ -241,7 +241,7 @@ const characterData = [
     tags: ["品味好", "萌萌哒"],
     avatar: "avatars/47.jpg",
     art: [
-      "img/第一页/ruanmei.jpg",
+      "img/第一页/ruanmei.avif",
     ]
   },
   {
@@ -252,7 +252,7 @@ const characterData = [
     tags: ["蘸豆","小皇帝"],
     avatar: "avatars/30.jpg",
     art: [
-      "img/第一页/qizi.jpg",
+      "img/第一页/qizi.avif",
 
     ]
   },
@@ -264,7 +264,7 @@ const characterData = [
     tags: ["睡觉", "可爱", "衣品好"],
     avatar: "avatars/32.jpg",
     art: [
-      "img/第一页/taoyan.jpg",
+      "img/第一页/taoyan.avif",
     ]
   },
   {
@@ -275,7 +275,7 @@ const characterData = [
     tags: ["白发帅哥", "氛围感", "光影", "精致穿搭"],
     avatar: "avatars/35.jpg",
     art: [
-      "img/第一页/xianxue.jpg",
+      "img/第一页/xianxue.avif",
      
     ]
   },
@@ -286,7 +286,7 @@ const characterData = [
     desc: "爱江江",
     tags: ["高玩"],
     avatar: "avatars/38.jpg",
-    art: ["第一页/qingque.jpg"]
+    art: ["第一页/qingque.avif"]
   },
   {
     id: 'feng_yi',
@@ -296,7 +296,7 @@ const characterData = [
     tags: ["御姐", "大王"],
     avatar: "avatars/18.jpg",
     art: [
-      "img/第一页/shenyuan.jpg",
+      "img/第一页/shenyuan.avif",
     ]
   },
   {
@@ -307,7 +307,7 @@ const characterData = [
     tags: ["装货", "神", "压力"],
     avatar: "avatars/49.jpg",
     art: [
-      "img/第一页/baichuan.jpg",
+      "img/第一页/baichuan.avif",
     ]
   },
   //第二页！！！！
@@ -319,7 +319,7 @@ const characterData = [
     tags: ["糕手", "高冷"],
     avatar: "avatars/27.jpg",
     art: [
-      "img/第二页/xi.jpg",
+      "img/第二页/xi.avif",
     ]
   },
   {
@@ -330,7 +330,7 @@ const characterData = [
     tags: ["cpdd", "打本中"],
     avatar: "avatars/20.jpg",
     art: [
-      "img/第二页/xinlei.jpg",
+      "img/第二页/xinlei.avif",
     ]
   },
   {
@@ -425,7 +425,7 @@ const characterData = [
     tags: ["帅气", "甜菜"],
     avatar: "avatars/34.jpg",
     art: [
-      "img/第二页/jiaduobao.jpg",
+      "img/第二页/jiaduobao.avif",
     ]
   },
   {
@@ -436,7 +436,7 @@ const characterData = [
     tags: ["猎奇", "少御"],
     avatar: "avatars/22.jpg",
     art: [
-      "img/第二页/naitu.jpg",
+      "img/第二页/naitu.avif",
     ]
   },
   {
@@ -530,7 +530,7 @@ const characterData = [
     tags: ["高冷", "炫酷"],
     avatar: "avatars/3.jpg",
     art: [
-      "img/第二页/guhong.jpg",
+      "img/第二页/guhong.avif",
     ]
   },
   {
@@ -541,7 +541,7 @@ const characterData = [
     tags: ["好声音","沐云招人"],
     avatar: "avatars/6.jpg",
     art: [
-      "img/第二页/lu.jpg",
+      "img/第二页/lu.avif",
     ]
   },
   {
