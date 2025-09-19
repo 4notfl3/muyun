@@ -53,7 +53,8 @@ const characterData = [
     title: "沐云-沐澐-养老院创始人",
     desc: "打帮战，随我冲，面板还要提提\n特么的天赏石又保底，再也不充了",
     tags: ["权威", "站街", "招人"],
-    avatar: "avatars/44.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/44.jpg
+",
     art: [
       "img/第一页/dangjia1.avif",
     ]
