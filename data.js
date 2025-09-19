@@ -75,7 +75,7 @@ const characterData = [
     title: "第一神相",
     desc: "想要找金主的可以私聊我了每天给你五个交子",
     tags: ["无敌神相"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/25.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/26.jpg",
     art: [
       "img/第一页/ganq.avif",
     ]
@@ -162,7 +162,7 @@ const characterData = [
     title: "不垚壁脸",
     desc: "我说白了老弟这你不进沐云/澐？",
     tags: ["招人这一块"],
-    avatar: "avatars/28.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/28.jpg",
     art: [
       "img/第一页/hua.avif",
     ]
@@ -173,7 +173,7 @@ const characterData = [
     title: "血河人气次席",
     desc: "你去毛伤害是想等我对你怒吼吗",
     tags: ["种地菜农"],
-    avatar: "avatars/45.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/45.jpg",
     art: ["img/第一页/huangyu.avif"]
   },
   {
@@ -182,7 +182,7 @@ const characterData = [
     title: "药王谷权威御姐",
     desc: "以蛊为药，魂灯为引，  九灵有情人终成药人",
     tags: ["温柔", "认真"],
-    avatar: "avatars/48.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/48.jpg",
     art: ["img/第一页/chuyu.avif"]
   },
   {
@@ -191,7 +191,7 @@ const characterData = [
     title: "吉祥物",
     desc: "李少大帅哥",
     tags: ["李少牛逼"],
-    avatar: "avatars/34.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/34.jpg",
     art: [
       "img/第一页/lishao.avif",
      
@@ -203,7 +203,7 @@ const characterData = [
     title: "叶山",
     desc: "烛白宝有你每一年新年",
     tags: ["抽象", "反差", "表面社恐"],
-    avatar: "avatars/40.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/40.jpg",
     art: [
       "img/第一页/jiaoruo.avif",
     ]
@@ -214,7 +214,7 @@ const characterData = [
     title: "沐云堂众",
     desc: "联赛重伤断层我就断触卡键 手抖 误触 帧率低 高延迟 瓶颈期 没手感 没心态 没状态 没支架 腱鞘炎犯了",
     tags: ["抽象", "应声虫", "站街"],
-    avatar: "avatars/48.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/48.jpg",
     art: [
       "img/第一页/yun.avif",
     ]
@@ -225,7 +225,7 @@ const characterData = [
     title: "顶级辅助",
     desc: "如雾气弥漫，留下模糊的足迹，又悄然散去。",
     tags: ["帅气","美丽","小椋老师"],
-    avatar: "avatars/37.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/37.jpg",
     art: [
       
       "img/第一页/fengliang2.avif",
@@ -239,7 +239,7 @@ const characterData = [
     title: "沐云最强数据官",
     desc: "沐云棒棒的！",
     tags: ["品味好", "萌萌哒"],
-    avatar: "avatars/47.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/47.jpg",
     art: [
       "img/第一页/ruanmei.avif",
     ]
@@ -250,7 +250,7 @@ const characterData = [
     title: "蘸豆",
     desc: "蘸豆蘸豆蘸豆蘸豆蘸豆蘸豆蘸豆蘸豆蘸豆蘸豆蘸豆蘸豆蘸豆打死所有人",
     tags: ["蘸豆","小皇帝"],
-    avatar: "avatars/30.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/30.jpg",
     art: [
       "img/第一页/qizi.avif",
 
@@ -262,7 +262,7 @@ const characterData = [
     title: "虹桥百星王者",
     desc: "来玩自定义呀",
     tags: ["睡觉", "可爱", "衣品好"],
-    avatar: "avatars/32.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/32.jpg",
     art: [
       "img/第一页/taoyan.avif",
     ]
@@ -273,7 +273,7 @@ const characterData = [
     title: "金戈铁马定仙原",
     desc: "白发疏疏映晓光，衣香鬓影立西厢。",
     tags: ["白发帅哥", "氛围感", "光影", "精致穿搭"],
-    avatar: "avatars/35.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/35.jpg",
     art: [
       "img/第一页/xianxue.avif",
      
@@ -285,7 +285,7 @@ const characterData = [
     title: "一只碎梦",
     desc: "爱江江",
     tags: ["高玩"],
-    avatar: "avatars/38.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/38.jpg",
     art: ["第一页/qingque.avif"]
   },
   {
@@ -294,7 +294,7 @@ const characterData = [
     title: "全能人机",
     desc: "为人仁厚，重情重义。",
     tags: ["御姐", "大王"],
-    avatar: "avatars/18.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/18.jpg",
     art: [
       "img/第一页/shenyuan.avif",
     ]
@@ -305,7 +305,7 @@ const characterData = [
     title: "国服梦泪",
     desc: " ⁶⁶⁶⁶⁶⁶ ⁶⁶ ₆₆₆₆真的太帅了吧₆₆₆₆⁶⁶⁶⁶⁶⁶⁶ ⁶⁶ ₆₆₆₆帅晕我了 ₆₆₆₆⁶6666 ⁶⁶⁶⁶⁶⁶ ⁶⁶ ₆₆₆₆666真的太帅了吧₆₆₆₆⁶太帅了⁶⁶⁶⁶⁶⁶ ⁶⁶ ₆₆₆₆₆₆₆₆⁶",
     tags: ["装货", "神", "压力"],
-    avatar: "avatars/49.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/49.jpg",
     art: [
       "img/第一页/baichuan.avif",
     ]
@@ -317,7 +317,7 @@ const characterData = [
     title: "超绝男神",
     desc: "沐云招人！",
     tags: ["糕手", "高冷"],
-    avatar: "avatars/27.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/27.jpg",
     art: [
       "img/第二页/xi.avif",
     ]
@@ -328,7 +328,7 @@ const characterData = [
     title: "副本开荒指挥",
     desc: "当0当1不如当3来的刺激",
     tags: ["cpdd", "打本中"],
-    avatar: "avatars/20.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/20.jpg",
     art: [
       "img/第二页/xinlei.avif",
     ]
@@ -423,7 +423,7 @@ const characterData = [
     title: "大帅比",
     desc: "尔若不离，我则不弃。",
     tags: ["帅气", "甜菜"],
-    avatar: "avatars/34.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/34.jpg",
     art: [
       "img/第二页/jiaduobao.avif",
     ]
@@ -434,7 +434,7 @@ const characterData = [
     title: "极品奶龙",
     desc: "我以为尿得够高 就能够遮住眼泪",
     tags: ["猎奇", "少御"],
-    avatar: "avatars/22.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/22.jpg",
     art: [
       "img/第二页/naitu.avif",
     ]
@@ -528,7 +528,7 @@ const characterData = [
     title: "高冷男神",
     desc: "阿玛特拉斯～～～",
     tags: ["高冷", "炫酷"],
-    avatar: "avatars/3.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/3.jpg",
     art: [
       "img/第二页/guhong.avif",
     ]
@@ -539,7 +539,7 @@ const characterData = [
     title: "追进度的小仙女",
     desc: "你权衡利弊 考虑所有 唯独不考虑我",
     tags: ["好声音","沐云招人"],
-    avatar: "avatars/6.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/6.jpg",
     art: [
       "img/第二页/lu.avif",
     ]
