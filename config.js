@@ -19,7 +19,7 @@ const CONFIG = {
     backgrounds: {
         // 首页区域背景媒体（支持视频和图片）
         heroBackground: {
-            url: "https://cdn.jsdelivr.net/gh/4notfl3/-@main/img/%E8%83%8C%E6%99%AF/feng1.jpg",
+            url: "img/背景/feng1.jpg",
             type: "auto",
             fallback: ""
         },
