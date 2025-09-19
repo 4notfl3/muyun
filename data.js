@@ -64,7 +64,7 @@ const characterData = [
     title: "沐云第一防守指挥官",
     desc: "哈基九，进攻团还是不要你吗",
     tags: ["萌妹", "叫妈妈"],
-    avatar: "avatars/50.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/50.jpg",
     art: [
       "img/第一页/yusao.avif",
     ]
@@ -75,7 +75,7 @@ const characterData = [
     title: "第一神相",
     desc: "想要找金主的可以私聊我了每天给你五个交子",
     tags: ["无敌神相"],
-    avatar: "avatars/26.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/25.jpg",
     art: [
       "img/第一页/ganq.avif",
     ]
@@ -86,7 +86,7 @@ const characterData = [
     title: "摆烂大王",
     desc: "世界以痛吻我 我伸舌头",
     tags: ["甜妹", "反差"],
-    avatar: "avatars/33.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/33.jpg",
     art: ["img/第一页/yuezhang.avif"]
   },
   {
@@ -95,7 +95,7 @@ const characterData = [
     title: "无敌碎梦",
     desc: "极品碎梦大王",
     tags: ["无敌碎梦"],
-    avatar: "avatars/24.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/24.jpg",
     art: [
       "img/第一页/xiaozi.avif",
     ]
@@ -106,7 +106,7 @@ const characterData = [
     title: "企图砍死铁衣",
     desc: "碎梦加强！",
     tags: ["热心肠"],
-    avatar: "avatars/46.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/46.jpg",
     art: [
       "img/第一页/zuoxing.avif",
   
@@ -118,7 +118,7 @@ const characterData = [
     title: "虫吟大王",
     desc: "压力压力压力压力",
     tags: ["抽象"],
-    avatar: "avatars/11.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/11.jpg",
     art: [
       "img/第一页/ling.avif",
     ]
@@ -129,7 +129,7 @@ const characterData = [
     title: "叶安",
     desc: "白宝有你的新年每一年",
     tags: ["社恐"],
-    avatar: "avatars/31.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/31.jpg",
     art: [
       "img/第一页/yujung.avif",
     ]
@@ -140,7 +140,7 @@ const characterData = [
     title: "最强统战",
     desc: " 灌伤害，骗骗花，拉开距离，回回啦\n给压压，再开大，压力有点大刚雷",
     tags: ["反差", "抽象", "神经病"],
-    avatar: "avatars/43.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/43.jpg",
     art: [
       "img/第一页/lanxing.avif",
     ]
@@ -151,7 +151,7 @@ const characterData = [
     title: "我是刷子",
     desc: "球球不要给我大保底",
     tags: ["12偷吃"],
-    avatar: "avatars/40.jpg",
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/40.jpg",
     art: [
       "img/第一页/lingwang.avif",
     ]
