@@ -16,7 +16,7 @@ const organizationsData = [
     host: '美丽',
     time: '帅气',
     location: '小椋老师',
-    image: 'img/日常/fengliang.avif'
+    image: 'img/日常/fengliang1.avif'
   }
 ];
 
