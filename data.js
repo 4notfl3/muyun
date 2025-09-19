@@ -2,22 +2,22 @@
 const organizationsData = [
   {
     id: 'five_person_dungeon',
-    name: '互帮互助十二人本',
-    description: '帮会成员互帮互助，齐心协力，共同拿下十二人本！',
-    host: '任何帮会成员',
-    time: '任何时间',
-    location: '任何地点',
-    image: 'img/日常/shier.avif'
-  },
-  {
-    id: 'ten_person_dungeon',
     name: '收徒DD！',
     description: '还在等什么，你未来的师傅在这里！！',
     host: '美丽',
     time: '帅气',
     location: '小椋老师',
     image: 'img/日常/fengliang1.avif'
-  }
+  },
+  // {
+  //   id: 'ten_person_dungeon',
+  //   name: '收徒DD！',
+  //   description: '还在等什么，你未来的师傅在这里！！',
+  //   host: '美丽',
+  //   time: '帅气',
+  //   location: '小椋老师',
+  //   image: 'img/日常/fengliang1.avif'
+  // }
 ];
 
 // 演示视频数据
