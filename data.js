@@ -12,7 +12,7 @@ const organizationsData = [
   {
     id: 'ten_person_dungeon',
     name: '收徒滴滴！',
-    description: '你养我小鹅不养你老',
+    description: '你养我小/不养你老',
     host: '',
     time: '',
     location: '',
