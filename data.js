@@ -142,6 +142,7 @@ const characterData = [
     tags: ["反差", "抽象", "神经病"],
     avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/43.jpg",
     art: [
+      "img/第一页/lanxing3.avif",
       "img/第一页/lanxing.avif",
     ]
   },
@@ -335,16 +336,13 @@ const characterData = [
   },
   {
     id: 'feng_yi',
-    name: "5",
-    title: "社长",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
+    name: "小苓",
+    title: "称号奶茶续命官",
+    desc: "要及时清醒，也要事事如意",
+    tags: ["沐澐招人"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/27.jpg",
     art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
+      "img/第二页/xiaoling.avif",
     ]
   },
   {
@@ -441,16 +439,13 @@ const characterData = [
   },
   {
     id: 'feng_yi',
-    name: "13",
-    title: "社长",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
+    name: "银盏别梦",
+    title: "全职小白",
+    desc: "悠闲的碧血营王子",
+    tags: ["好脾气", "爱搓桩"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/36.jpg",
     art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
+      "img/第二页/biemeng.avif",
     ]
   },
   {
