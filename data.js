@@ -9,15 +9,15 @@ const organizationsData = [
     location: '小椋老师',
     image: 'img/日常/fengliang1.avif'
   },
-  // {
-  //   id: 'ten_person_dungeon',
-  //   name: '收徒DD！',
-  //   description: '还在等什么，你未来的师傅在这里！！',
-  //   host: '美丽',
-  //   time: '帅气',
-  //   location: '小椋老师',
-  //   image: 'img/日常/fengliang1.avif'
-  // }
+  {
+    id: 'ten_person_dungeon',
+    name: '收徒滴滴！',
+    description: '你养我小鹅不养你老',
+    host: '',
+    time: '',
+    location: '',
+    image: 'img/日常/tudi.avif'
+  }
 ];
 
 // 演示视频数据
@@ -232,6 +232,7 @@ const characterData = [
       "img/第一页/fengliang2.avif",
       "img/第一页/fengliang1.avif",
       "img/第一页/fengliang4.avif",
+      "img/第一页/fengliang3.avif"
     ]
   },
   {
