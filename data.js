@@ -25,7 +25,7 @@ const demoVideos = [
   {
     id: '1',
     name: '帮会合照',
-    video:'img/合照/hezhao2.avif'
+    video: 'img/合照/hezhao2.avif'
   },
   {
     id: '2',
@@ -49,45 +49,48 @@ const demoVideos = [
 const characterData = [
   {
     id: 'feng_yi',
-    name: "寒初雪",
-    title: "沐云-沐澐-养老院创始人",
-    desc: "打帮战，随我冲，面板还要提提\n特么的天赏石又保底，再也不充了",
-    tags: ["权威", "站街", "招人"],
-    avatar: "/avatars/44.jpg",
+    name: "澜星",
+    title: "最强统战",
+    desc: " 灌伤害，骗骗花，拉开距离，回回啦\n给压压，再开大，压力有点大刚雷",
+    tags: ["反差", "抽象", "神经病"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/43.jpg",
     art: [
-      "img/第一页/dangjia1.avif",
+      "img/第一页/lanxing3.avif",
+      "img/第一页/lanxing.avif",
     ]
   },
   {
-    id: 'meng_jiu_shang',
-    name: "俞少",
-    title: "沐云第一防守指挥官",
-    desc: "哈基九，进攻团还是不要你吗",
-    tags: ["萌妹", "叫妈妈"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/50.jpg",
+    id: 'tian_ya_ke_wei_yang',
+    name: "凌忘尘",
+    title: "我是刷子",
+    desc: "球球不要给我大保底",
+    tags: ["12偷吃"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/40.jpg",
     art: [
-      "img/第一页/yusao.avif",
+      "img/第一页/lingwang.avif",
     ]
   },
   {
     id: 'xiao_chen_fa_da_cai',
-    name: "感情",
-    title: "第一神相",
-    desc: "想要找金主的可以私聊我了每天给你五个交子",
-    tags: ["无敌神相"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/26.jpg",
+    name: "垚花",
+    title: "不垚壁脸",
+    desc: "我说白了老弟这你不进沐云/澐？",
+    tags: ["招人这一块"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/28.jpg",
     art: [
-      "img/第一页/ganq.avif",
+      "img/第一页/hua.avif",
     ]
   },
   {
     id: 'shi_liu_sui',
-    name: "乐章",
-    title: "摆烂大王",
-    desc: "世界以痛吻我 我伸舌头",
-    tags: ["甜妹", "反差"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/33.jpg",
-    art: ["img/第一页/yuezhang.avif"]
+    name: "深渊",
+    title: "全能人机",
+    desc: "为人仁厚，重情重义。",
+    tags: ["御姐", "大王"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/18.jpg",
+    art: [
+      "img/第一页/shenyuan.avif",
+    ]
   },
   {
     id: 'xian_huan_xing',
@@ -109,7 +112,7 @@ const characterData = [
     avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/46.jpg",
     art: [
       "img/第一页/zuoxing.avif",
-  
+
     ]
   },
   {
@@ -136,37 +139,35 @@ const characterData = [
   },
   {
     id: 'xiao_chen_fa_da_cai',
-    name: "澜星",
-    title: "最强统战",
-    desc: " 灌伤害，骗骗花，拉开距离，回回啦\n给压压，再开大，压力有点大刚雷",
-    tags: ["反差", "抽象", "神经病"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/43.jpg",
+    id: 'meng_jiu_shang',
+    name: "俞少",
+    title: "沐云第一防守指挥官",
+    desc: "哈基九，进攻团还是不要你吗",
+    tags: ["萌妹", "叫妈妈"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/50.jpg",
     art: [
-      "img/第一页/lanxing3.avif",
-      "img/第一页/lanxing.avif",
+      "img/第一页/yusao.avif",
     ]
   },
   {
     id: 'tian_ya_ke_wei_yang',
-    name: "凌忘尘",
-    title: "我是刷子",
-    desc: "球球不要给我大保底",
-    tags: ["12偷吃"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/40.jpg",
+    name: "软妹",
+    title: "沐云最强数据官",
+    desc: "沐云棒棒的！",
+    tags: ["品味好", "萌萌哒"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/47.jpg",
     art: [
-      "img/第一页/lingwang.avif",
+      "img/第一页/ruanmei.avif",
     ]
   },
   {
     id: 'kong_luo_lai',
-    name: "垚花",
-    title: "不垚壁脸",
-    desc: "我说白了老弟这你不进沐云/澐？",
-    tags: ["招人这一块"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/28.jpg",
-    art: [
-      "img/第一页/hua.avif",
-    ]
+    name: "乐章",
+    title: "摆烂大王",
+    desc: "世界以痛吻我 我伸舌头",
+    tags: ["甜妹", "反差"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/33.jpg",
+    art: ["img/第一页/yuezhang.avif"]
   },
   {
     id: 'guan_xin_jing',
@@ -179,12 +180,14 @@ const characterData = [
   },
   {
     id: 'yu_ban_sheng',
-    name: "初遇",
-    title: "药王谷权威御姐",
-    desc: "以蛊为药，魂灯为引，  九灵有情人终成药人",
-    tags: ["温柔", "认真"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/48.jpg",
-    art: ["img/第一页/chuyu.avif"]
+    name: "小苓",
+    title: "称号奶茶续命官",
+    desc: "要及时清醒，也要事事如意",
+    tags: ["沐澐招人"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/27.jpg",
+    art: [
+      "img/第一页/xiaoling.avif",
+    ]
   },
   {
     id: 'zhen_jin_mian',
@@ -195,7 +198,7 @@ const characterData = [
     avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/34.jpg",
     art: [
       "img/第一页/lishao.avif",
-     
+
     ]
   },
   {
@@ -225,10 +228,10 @@ const characterData = [
     name: "风椋",
     title: "顶级辅助",
     desc: "如雾气弥漫，留下模糊的足迹，又悄然散去。",
-    tags: ["帅气","美丽","小椋老师"],
+    tags: ["帅气", "美丽", "小椋老师"],
     avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/37.jpg",
     art: [
-      
+
       "img/第一页/fengliang2.avif",
       "img/第一页/fengliang1.avif",
       "img/第一页/fengliang4.avif",
@@ -237,13 +240,13 @@ const characterData = [
   },
   {
     id: 'wen_ren_yi',
-    name: "软妹",
-    title: "沐云最强数据官",
-    desc: "沐云棒棒的！",
-    tags: ["品味好", "萌萌哒"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/47.jpg",
+    name: "感情",
+    title: "第一神相",
+    desc: "想要找金主的可以私聊我了每天给你五个交子",
+    tags: ["无敌神相"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/26.jpg",
     art: [
-      "img/第一页/ruanmei.avif",
+      "img/第一页/ganq.avif",
     ]
   },
   {
@@ -251,7 +254,7 @@ const characterData = [
     name: "腼腆的妻子",
     title: "蘸豆",
     desc: "蘸豆蘸豆蘸豆蘸豆蘸豆蘸豆蘸豆蘸豆蘸豆蘸豆蘸豆蘸豆蘸豆打死所有人",
-    tags: ["蘸豆","小皇帝"],
+    tags: ["蘸豆", "小皇帝"],
     avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/30.jpg",
     art: [
       "img/第一页/qizi.avif",
@@ -260,13 +263,13 @@ const characterData = [
   },
   {
     id: 'yue_luo_xiu_chen',
-    name: "讨厌低端玩物",
-    title: "虹桥百星王者",
-    desc: "来玩自定义呀",
-    tags: ["睡觉", "可爱", "衣品好"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/32.jpg",
+    name: "越晨夕",
+    title: "超绝男神",
+    desc: "沐云招人！",
+    tags: ["糕手", "高冷"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/27.jpg",
     art: [
-      "img/第一页/taoyan.avif",
+      "img/第一页/xi.avif",
     ]
   },
   {
@@ -278,7 +281,7 @@ const characterData = [
     avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/35.jpg",
     art: [
       "img/第一页/xianxue.avif",
-     
+
     ]
   },
   {
@@ -292,13 +295,13 @@ const characterData = [
   },
   {
     id: 'feng_yi',
-    name: "深渊",
-    title: "全能人机",
-    desc: "为人仁厚，重情重义。",
-    tags: ["御姐", "大王"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/18.jpg",
+    name: "兔子",
+    title: "极品奶龙",
+    desc: "我以为尿得够高 就能够遮住眼泪",
+    tags: ["猎奇", "少御"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/22.jpg",
     art: [
-      "img/第一页/shenyuan.avif",
+      "img/第一页/naitu.avif",
     ]
   },
   {
@@ -315,13 +318,13 @@ const characterData = [
   //第二页！！！！
   {
     id: 'feng_yi',
-    name: "越晨夕",
-    title: "超绝男神",
-    desc: "沐云招人！",
-    tags: ["糕手", "高冷"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/27.jpg",
+    name: "银盏别梦",
+    title: "全职小白",
+    desc: "悠闲的碧血营王子",
+    tags: ["好脾气", "爱搓桩"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/36.jpg",
     art: [
-      "img/第二页/xi.avif",
+      "img/第二页/biemeng.avif",
     ]
   },
   {
@@ -337,24 +340,30 @@ const characterData = [
   },
   {
     id: 'feng_yi',
-    name: "小苓",
-    title: "称号奶茶续命官",
-    desc: "要及时清醒，也要事事如意",
-    tags: ["沐澐招人"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/27.jpg",
+    name: "12",
+    title: "社长",
+    desc: "为人仁厚，重情重义。",
+    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
+    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
     art: [
-      "img/第二页/xiaoling.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
     ]
   },
   {
     id: 'feng_yi',
-    name: "嫣凤",
-    title: "铁衣大帝",
-    desc: "前途一片阴暗  好凉快",
-    tags: ["极品女高", "美食爱好者"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/27.jpg",
+    name: "6",
+    title: "社长",
+    desc: "为人仁厚，重情重义。",
+    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
+    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
     art: [
-      "img/第二页/feng.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
     ]
   },
   {
@@ -426,24 +435,27 @@ const characterData = [
   },
   {
     id: 'feng_yi',
-    name: "兔子",
-    title: "极品奶龙",
-    desc: "我以为尿得够高 就能够遮住眼泪",
-    tags: ["猎奇", "少御"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/22.jpg",
+    name: "屿鹿",
+    title: "追进度的小仙女",
+    desc: "你权衡利弊 考虑所有 唯独不考虑我",
+    tags: ["好声音", "沐云招人"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/6.jpg",
     art: [
-      "img/第二页/naitu.avif",
+      "img/第二页/lu.avif",
     ]
   },
   {
     id: 'feng_yi',
-    name: "银盏别梦",
-    title: "全职小白",
-    desc: "悠闲的碧血营王子",
-    tags: ["好脾气", "爱搓桩"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/36.jpg",
+    name: "13",
+    title: "社长",
+    desc: "为人仁厚，重情重义。",
+    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
+    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
     art: [
-      "img/第二页/biemeng.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
     ]
   },
   {
@@ -459,7 +471,7 @@ const characterData = [
       "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
       "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
     ]
-  },{
+  }, {
     id: 'feng_yi',
     name: "15",
     title: "社长",
@@ -528,24 +540,30 @@ const characterData = [
   },
   {
     id: 'feng_yi',
-    name: "屿鹿",
-    title: "追进度的小仙女",
-    desc: "你权衡利弊 考虑所有 唯独不考虑我",
-    tags: ["好声音","沐云招人"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/6.jpg",
+    name: "20",
+    title: "社长",
+    desc: "为人仁厚，重情重义。",
+    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
+    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
     art: [
-      "img/第二页/lu.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
     ]
   },
   {
     id: 'feng_yi',
-    name: "祁序",
-    title: "一剑定天下",
-    desc: "相逢自有时，一朝相识百日思",
-    tags: ["帅气大方", "霸道奶妈"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/1.jpg",
+    name: "21",
+    title: "社长",
+    desc: "为人仁厚，重情重义。",
+    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
+    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
     art: [
-      "img/第二页/xu.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
     ]
   },
   {
@@ -561,7 +579,7 @@ const characterData = [
       "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
       "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
     ]
-  },{
+  }, {
     id: 'feng_yi',
     name: "23",
     title: "社长",
@@ -617,8 +635,8 @@ const characterData = [
       "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
     ]
   },
-  
- 
+
+
 ]
 
 // 工具函数
