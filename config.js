@@ -304,10 +304,9 @@ const CONFIG = {
                     title: "联系我们",
                     socialLinks: [
                         {
-                            name: "寒初雪：Serein_112818",
-                            name2: "澜星：mhh18254526882",
-                            name3: "俞少：z528060",
-                            name4: "凌忘尘：xksh2007024",
+                            name: "澜星：mhh18254526882",
+                            name2: "俞少：z528060",
+                            name3: "凌忘尘：xksh2007024",
                             url: "#"
                         }
                     ]
