@@ -295,17 +295,6 @@ const characterData = [
   },
   {
     id: 'feng_yi',
-    name: "兔子",
-    title: "极品奶龙",
-    desc: "我以为尿得够高 就能够遮住眼泪",
-    tags: ["猎奇", "少御"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/22.jpg",
-    art: [
-      "img/第一页/naitu.avif",
-    ]
-  },
-  {
-    id: 'feng_yi',
     name: "百穿",
     title: "国服梦泪",
     desc: " ⁶⁶⁶⁶⁶⁶ ⁶⁶ ₆₆₆₆真的太帅了吧₆₆₆₆⁶⁶⁶⁶⁶⁶⁶ ⁶⁶ ₆₆₆₆帅晕我了 ₆₆₆₆⁶6666 ⁶⁶⁶⁶⁶⁶ ⁶⁶ ₆₆₆₆666真的太帅了吧₆₆₆₆⁶太帅了⁶⁶⁶⁶⁶⁶ ⁶⁶ ₆₆₆₆₆₆₆₆⁶",
@@ -340,16 +329,13 @@ const characterData = [
   },
   {
     id: 'feng_yi',
-    name: "12",
-    title: "社长",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
+    name: "鹿漓",
+    title: "追进度的小仙女",
+    desc: "你权衡利弊 考虑所有 唯独不考虑我",
+    tags: ["好声音", "沐云招人"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/6.jpg",
     art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
+      "img/第二页/lu.avif",
     ]
   },
   {
@@ -424,6 +410,20 @@ const characterData = [
   },
   {
     id: 'feng_yi',
+    name: "26",
+    title: "社长",
+    desc: "为人仁厚，重情重义。",
+    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
+    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
+    art: [
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
+    ]
+  },
+  {
+    id: 'feng_yi',
     name: "加多宝",
     title: "大帅比",
     desc: "尔若不离，我则不弃。",
@@ -435,13 +435,16 @@ const characterData = [
   },
   {
     id: 'feng_yi',
-    name: "屿鹿",
-    title: "追进度的小仙女",
-    desc: "你权衡利弊 考虑所有 唯独不考虑我",
-    tags: ["好声音", "沐云招人"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/6.jpg",
+    name: "12",
+    title: "社长",
+    desc: "为人仁厚，重情重义。",
+    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
+    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
     art: [
-      "img/第二页/lu.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
     ]
   },
   {
@@ -635,6 +638,7 @@ const characterData = [
       "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
     ]
   },
+  
 
 
 ]
