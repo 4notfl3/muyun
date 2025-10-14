@@ -104,15 +104,14 @@ const characterData = [
     ]
   },
   {
-    id: 'yu_qiang_ran',
-    name: "灼星",
-    title: "企图砍死铁衣",
-    desc: "碎梦加强！",
-    tags: ["热心肠"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/46.jpg",
+    id: 'feng_yi',
+    name: "加多宝",
+    title: "大帅比",
+    desc: "尔若不离，我则不弃。",
+    tags: ["帅气", "甜菜"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/34.jpg",
     art: [
-      "img/第一页/zuoxing.avif",
-
+      "img/第二页/jiaduobao.avif",
     ]
   },
   {
@@ -249,17 +248,6 @@ const characterData = [
     ]
   },
   {
-    id: 'yue_luo_xiu_chen',
-    name: "越晨夕",
-    title: "超绝男神",
-    desc: "沐云招人！",
-    tags: ["糕手", "高冷"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/27.jpg",
-    art: [
-      "img/第一页/xi.avif",
-    ]
-  },
-  {
     id: 'zhi_bei_bei_bei',
     name: "闲敲雪",
     title: "金戈铁马定仙原",
@@ -272,15 +260,6 @@ const characterData = [
     ]
   },
   {
-    id: 'ming_wu_qi',
-    name: "小清秋",
-    title: "一只碎梦",
-    desc: "爱江江",
-    tags: ["高玩"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/38.jpg",
-    art: ["第一页/qingque.avif"]
-  },
-  {
     id: 'feng_yi',
     name: "百穿",
     title: "国服梦泪",
@@ -291,16 +270,15 @@ const characterData = [
       "img/第一页/baichuan.avif",
     ]
   },
-  //第二页！！！！
   {
     id: 'feng_yi',
-    name: "银盏别梦",
-    title: "全职小白",
-    desc: "悠闲的碧血营王子",
-    tags: ["好脾气", "爱搓桩"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/36.jpg",
+    name: "孤鸿",
+    title: "高冷男神",
+    desc: "阿玛特拉斯～～～",
+    tags: ["高冷", "炫酷"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/3.jpg",
     art: [
-      "img/第二页/biemeng.avif",
+      "img/第二页/guhong.avif",
     ]
   },
   {
@@ -325,320 +303,33 @@ const characterData = [
       "img/第二页/lu.avif",
     ]
   },
+  //模板
   {
     id: 'feng_yi',
-    name: "6",
-    title: "社长",
+    name: "1",
+    title: "新人",
     desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
+    tags: ["欢迎新成员"],
     avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
     art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
+      "img/合照/hezhao2.avif",
     ]
   },
-  {
-    id: 'feng_yi',
-    name: "7",
-    title: "社长",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
-    art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
-    ]
-  },
-  {
-    id: 'feng_yi',
-    name: "8",
-    title: "社长",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
-    art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
-    ]
-  },
-  {
-    id: 'feng_yi',
-    name: "9",
-    title: "社长",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
-    art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
-    ]
-  },
-  {
-    id: 'feng_yi',
-    name: "10",
-    title: "社长",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
-    art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
-    ]
-  },
-  {
-    id: 'feng_yi',
-    name: "26",
-    title: "社长",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
-    art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
-    ]
-  },
-  {
-    id: 'feng_yi',
-    name: "27",
-    title: "社长",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
-    art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
-    ]
-  },
-  {
-    id: 'feng_yi',
-    name: "加多宝",
-    title: "大帅比",
-    desc: "尔若不离，我则不弃。",
-    tags: ["帅气", "甜菜"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/34.jpg",
-    art: [
-      "img/第二页/jiaduobao.avif",
-    ]
-  },
-  {
-    id: 'feng_yi',
-    name: "12",
-    title: "社长",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
-    art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
-    ]
-  },
-  {
-    id: 'feng_yi',
-    name: "13",
-    title: "社长",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
-    art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
-    ]
-  },
-  {
-    id: 'feng_yi',
-    name: "14",
-    title: "社长",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
-    art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
-    ]
-  }, {
-    id: 'feng_yi',
-    name: "15",
-    title: "社长",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
-    art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
-    ]
-  },
-  {
-    id: 'feng_yi',
-    name: "16",
-    title: "社长",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
-    art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
-    ]
-  },
-  {
-    id: 'feng_yi',
-    name: "17",
-    title: "社长",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
-    art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
-    ]
-  },
-  {
-    id: 'feng_yi',
-    name: "18",
-    title: "社长",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
-    art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
-    ]
-  },
-  {
-    id: 'feng_yi',
-    name: "孤鸿",
-    title: "高冷男神",
-    desc: "阿玛特拉斯～～～",
-    tags: ["高冷", "炫酷"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/3.jpg",
-    art: [
-      "img/第二页/guhong.avif",
-    ]
-  },
-  {
-    id: 'feng_yi',
-    name: "20",
-    title: "社长",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
-    art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
-    ]
-  },
-  {
-    id: 'feng_yi',
-    name: "21",
-    title: "社长",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
-    art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
-    ]
-  },
-  {
-    id: 'feng_yi',
-    name: "22",
-    title: "社长",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
-    art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
-    ]
-  }, {
-    id: 'feng_yi',
-    name: "23",
-    title: "社长",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
-    art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
-    ]
-  },
-  {
-    id: 'feng_yi',
-    name: "24",
-    title: "社长",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
-    art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
-    ]
-  },
-  {
-    id: 'feng_yi',
-    name: "25",
-    title: "社长",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
-    art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
-    ]
-  },
-  {
-    id: 'feng_yi',
-    name: "26",
-    title: "社长",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
-    art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
-    ]
-  },
+  // {
+  //   id: 'feng_yi',
+  //   name: "6",
+  //   title: "社长",
+  //   desc: "为人仁厚，重情重义。",
+  //   tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
+  //   avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
+  //   art: [
+  //     "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
+  //     "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
+  //     "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
+  //     "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
+  //   ]
+  // },
+ 
   
 
 
