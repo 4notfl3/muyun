@@ -85,7 +85,7 @@ const characterData = [
     id: 'shi_liu_sui',
     name: "深渊",
     title: "全能人机",
-    desc: "为人仁厚，重情重义。",
+    desc: "想吃妈妈的巴掌吗",
     tags: ["御姐", "大王"],
     avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/18.jpg",
     art: [
