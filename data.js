@@ -234,7 +234,6 @@ const characterData = [
 
       "img/第一页/fengliang2.avif",
       "img/第一页/fengliang1.avif",
-      "img/第一页/fengliang4.avif",
       "img/第一页/fengliang3.avif"
     ]
   },
@@ -247,18 +246,6 @@ const characterData = [
     avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/26.jpg",
     art: [
       "img/第一页/ganq.avif",
-    ]
-  },
-  {
-    id: 'ye_yun_qing',
-    name: "腼腆的妻子",
-    title: "蘸豆",
-    desc: "蘸豆蘸豆蘸豆蘸豆蘸豆蘸豆蘸豆蘸豆蘸豆蘸豆蘸豆蘸豆蘸豆打死所有人",
-    tags: ["蘸豆", "小皇帝"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/30.jpg",
-    art: [
-      "img/第一页/qizi.avif",
-
     ]
   },
   {
@@ -411,6 +398,20 @@ const characterData = [
   {
     id: 'feng_yi',
     name: "26",
+    title: "社长",
+    desc: "为人仁厚，重情重义。",
+    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
+    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
+    art: [
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
+    ]
+  },
+  {
+    id: 'feng_yi',
+    name: "27",
     title: "社长",
     desc: "为人仁厚，重情重义。",
     tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
