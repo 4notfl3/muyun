@@ -227,7 +227,7 @@ const characterData = [
     name: "风椋",
     title: "顶级辅助",
     desc: "如雾气弥漫，留下模糊的足迹，又悄然散去。",
-    tags: ["帅气", "美丽", "小椋老师"],
+    tags: ["妈妈", "小椋老师"],
     avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/37.jpg",
     art: [
 
