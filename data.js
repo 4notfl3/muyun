@@ -85,7 +85,7 @@ const characterData = [
     id: 'shi_liu_sui',
     name: "深渊",
     title: "全能人机",
-    desc: "想吃妈妈的巴掌吗",
+    desc: "为人仁厚，重情重义。",
     tags: ["御姐", "大王"],
     avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/18.jpg",
     art: [
@@ -303,32 +303,120 @@ const characterData = [
       "img/第二页/lu.avif",
     ]
   },
-  //模板
+  
   {
     id: 'feng_yi',
-    name: "1",
-    title: "新人",
-    desc: "为人仁厚，重情重义。",
-    tags: ["欢迎新成员"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
+    name: "砚止",
+    title: "安安",
+    desc: "开心最重要",
+    tags: ["爆金币"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/10.jpg",
+    art: [
+      "img/第一页/研止.avif",
+    ]
+  },
+  {
+    id: 'feng_yi',
+    name: "离倾",
+    title: "宁静",
+    desc: "你已经触犯了大清法律中 不可饶恕之目无君主之罪 我康熙铠甲宣布剥夺你的一切权利 并对你的九族进行午后问斩 束手就擒吧",
+    tags: ["甜妹","副本大师"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/30.jpg",
+    art: [
+      "img/第二页/离倾.avif",
+    ]
+  },
+  {
+    id: 'feng_yi',
+    name: "卜知奇意",
+    title: "医心济世",
+    desc: "医人医骨不医心，知人知面不知心",
+    tags: ["元气满满","一口奶满"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/19.jpg",
+    art: [
+      "img/第二页/卜知奇意.avif",
+    ]
+  },
+  {
+    id: 'feng_yi',
+    name: "将夜",
+    title: "合照",
+    desc: "帮会成员免费投稿",
+    tags: ["欢迎新人"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/50.jpg",
     art: [
       "img/合照/hezhao2.avif",
     ]
   },
+  {
+    id: 'feng_yi',
+    name: "将夜",
+    title: "合照",
+    desc: "帮会成员免费投稿",
+    tags: ["欢迎新人"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/50.jpg",
+    art: [
+      "img/合照/hezhao2.avif",
+    ]
+  },
+  {
+    id: 'feng_yi',
+    name: "将夜",
+    title: "合照",
+    desc: "帮会成员免费投稿",
+    tags: ["欢迎新人"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/50.jpg",
+    art: [
+      "img/合照/hezhao2.avif",
+    ]
+  },
+  {
+    id: 'feng_yi',
+    name: "将夜",
+    title: "合照",
+    desc: "帮会成员免费投稿",
+    tags: ["欢迎新人"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/50.jpg",
+    art: [
+      "img/合照/hezhao2.avif",
+    ]
+  },
+  {
+    id: 'feng_yi',
+    name: "将夜",
+    title: "合照",
+    desc: "帮会成员免费投稿",
+    tags: ["欢迎新人"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/50.jpg",
+    art: [
+      "img/合照/hezhao2.avif",
+    ]
+  },
+  {
+    id: 'feng_yi',
+    name: "将夜",
+    title: "合照",
+    desc: "帮会成员免费投稿",
+    tags: ["欢迎新人"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/50.jpg",
+    art: [
+      "img/合照/hezhao2.avif",
+    ]
+  },
+  
+  //模板
   // {
   //   id: 'feng_yi',
-  //   name: "6",
-  //   title: "社长",
-  //   desc: "为人仁厚，重情重义。",
-  //   tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-  //   avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
+  //   name: "将夜",
+  //   title: "合照",
+  //   desc: "帮会成员免费投稿",
+  //   tags: ["欢迎新人"],
+  //   avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/50.jpg",
   //   art: [
-  //     "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-  //     "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-  //     "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-  //     "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
+  //     "img/合照/hezhao2.avif",
   //   ]
   // },
+ 
  
   
 
