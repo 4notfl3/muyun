@@ -306,7 +306,6 @@ const CONFIG = {
                         {
                             name: "澜星：mhh18254526882",
                             name2: "俞少：z528060",
-                            name3: "凌忘尘：xksh2007024",
                             url: "#"
                         }
                     ]
