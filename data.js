@@ -339,13 +339,13 @@ const characterData = [
   },
   {
     id: 'feng_yi',
-    name: "将夜",
-    title: "合照",
-    desc: "帮会成员免费投稿",
-    tags: ["欢迎新人"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/50.jpg",
+    name: "雨夜",
+    title: "纯粹自由之身",
+    desc: "于世间再无枷锁",
+    tags: ["雨夜大王"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/40.jpg",
     art: [
-      "img/合照/hezhao2.avif",
+      "img/第二页/雨夜.avif",
     ]
   },
   {
