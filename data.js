@@ -151,8 +151,8 @@ const characterData = [
   {
     id: 'tian_ya_ke_wei_yang',
     name: "软妹",
-    title: "沐云最强数据官",
-    desc: "沐云棒棒的！",
+    title: "将夜最强数据官",
+    desc: "将夜棒棒的！",
     tags: ["品味好", "萌萌哒"],
     avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/47.jpg",
     art: [
@@ -214,7 +214,7 @@ const characterData = [
   {
     id: 'lin_qian_qu',
     name: "云欢",
-    title: "沐云堂众",
+    title: "将夜堂众",
     desc: "联赛重伤断层我就断触卡键 手抖 误触 帧率低 高延迟 瓶颈期 没手感 没心态 没状态 没支架 腱鞘炎犯了",
     tags: ["抽象", "应声虫", "站街"],
     avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/48.jpg",
