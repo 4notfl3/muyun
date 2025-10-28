@@ -214,7 +214,7 @@ const characterData = [
   {
     id: 'lin_qian_qu',
     name: "云欢",
-    title: "将夜堂众",
+    title: "沐云堂众",
     desc: "联赛重伤断层我就断触卡键 手抖 误触 帧率低 高延迟 瓶颈期 没手感 没心态 没状态 没支架 腱鞘炎犯了",
     tags: ["抽象", "应声虫", "站街"],
     avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/48.jpg",
@@ -350,13 +350,13 @@ const characterData = [
   },
   {
     id: 'feng_yi',
-    name: "将夜",
-    title: "合照",
-    desc: "帮会成员免费投稿",
-    tags: ["欢迎新人"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/50.jpg",
+    name: "嫣凤",
+    title: "铁衣大帝",
+    desc: "前途一片阴暗 好凉快",
+    tags: ["完美主义爱好者","美食爱好者"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/33.jpg",
     art: [
-      "img/合照/hezhao2.avif",
+      "img/第二页/嫣凤.avif",
     ]
   },
   {
