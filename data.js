@@ -1,14 +1,6 @@
 // 组织活动数据
 const organizationsData = [
-  {
-    id: 'five_person_dungeon',
-    name: '收徒DD！',
-    description: '还在等什么，你未来的师傅在这里！！',
-    host: '美丽',
-    time: '帅气',
-    location: '小椋老师',
-    image: 'img/日常/fengliang1.avif'
-  },
+ 
   {
     id: 'ten_person_dungeon',
     name: '收徒滴滴！',
