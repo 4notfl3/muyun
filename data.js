@@ -223,20 +223,6 @@ const characterData = [
     ]
   },
   {
-    id: 'jian_zhao_yue_ming',
-    name: "风椋",
-    title: "顶级辅助",
-    desc: "如雾气弥漫，留下模糊的足迹，又悄然散去。",
-    tags: ["妈妈", "小椋老师"],
-    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/37.jpg",
-    art: [
-
-      "img/第一页/fengliang2.avif",
-      "img/第一页/fengliang1.avif",
-      "img/第一页/fengliang3.avif"
-    ]
-  },
-  {
     id: 'wen_ren_yi',
     name: "感情",
     title: "第一神相",
@@ -393,6 +379,17 @@ const characterData = [
     ]
   },
   {
+    id: 'feng_yi',
+    name: "将夜",
+    title: "合照",
+    desc: "帮会成员免费投稿",
+    tags: ["欢迎新人"],
+    avatar: "https://cdn.jsdelivr.net/gh/4notfl3/muyunimg@main/avatars/50.jpg",
+    art: [
+      "img/合照/hezhao2.avif",
+    ]
+  },
+   {
     id: 'feng_yi',
     name: "将夜",
     title: "合照",
